@@ -27,16 +27,20 @@ Restart Omarchy.
 
 ## Bonus: Some Configs for Omarchy
 ### KeyBindings
+```
 bindd = SUPER SHIFT, S, Screenshot de Região, exec, ~/.local/share/omarchy/bin/omarchy-cmd-screenshot smart clipboard
+```
 ### Monitors
 App: nwg-displays
 ### Hyprland.conf
+```
 misc {
 	vfr = false
 }
 cursor {
     no_hardware_cursors = true
 }
+```
 ### Input.conf
 ```
 # Control your input devices
