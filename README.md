@@ -38,6 +38,7 @@ cursor {
     no_hardware_cursors = true
 }
 ### Input.conf
+```
 # Control your input devices
 # See https://wiki.hypr.land/Configuring/Variables/#input
 input {
@@ -83,6 +84,7 @@ windowrule = match:class com.mitchellh.ghostty, scroll_touchpad 0.2
 
 # Enable touchpad gestures for changing workspaces
 # See https://wiki.hyprland.org/Configuring/Gestures/
-# gesture = 3, horizontal, workspace
+# gesture = 3, horizontal, workspace`
+```
 
 
